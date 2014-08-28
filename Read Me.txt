@@ -1,0 +1,2 @@
+This is offline shopping apps. Barcode scanner is used for offline scan and puchease the product using cetalog.
+Version : Andorid minimum version : 2.1 (API 7)
